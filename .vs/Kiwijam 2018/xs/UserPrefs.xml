@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{BC9F24C8-0AD8-813A-8478-D9B283F25C53}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player/Mouselook.cs">
+    <Files>
+      <File FileName="Assets/Player/PlayerMovement.cs" Line="15" Column="2" />
+      <File FileName="Assets/Player/Mouselook.cs" Line="6" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
