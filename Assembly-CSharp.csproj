@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{BC9F24C8-0AD8-813A-8478-D9B283F25C53}</ProjectGuid>
+    <ProjectGuid>{6141B0C8-34C2-AFC6-49BF-D11B678FAD4B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,20 +61,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Player.cs" />
-    <Compile Include="Assets\Player\Mouselook.cs" />
-    <Compile Include="Assets\Player\PlayerMovement.cs" />
+    <Compile Include="Assets\Billboard.cs" />
+    <Compile Include="Assets\DummyTest\Player.cs" />
+    <Compile Include="Assets\DummyTest\Player\Mouselook.cs" />
+    <Compile Include="Assets\DummyTest\Player\PlayerMovement.cs" />
+    <Compile Include="Assets\DummyTest\Shoot.cs" />
+    <Compile Include="Assets\Multiplayer Test\Scripts\Bullet.cs" />
+    <Compile Include="Assets\Multiplayer Test\Scripts\Health.cs" />
+    <Compile Include="Assets\Multiplayer Test\Scripts\PlayerController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/waltlim/Kiwijam 2018/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/waltlim/Dev/Kiwijam-2018/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/waltlim/Kiwijam 2018/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/waltlim/Dev/Kiwijam-2018/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/waltlim/Kiwijam 2018/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/waltlim/Dev/Kiwijam-2018/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/waltlim/Kiwijam 2018/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/waltlim/Dev/Kiwijam-2018/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

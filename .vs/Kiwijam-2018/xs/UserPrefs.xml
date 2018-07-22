@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6141B0C8-34C2-AFC6-49BF-D11B678FAD4B}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Multiplayer Test/Scripts/Bullet.cs">
+    <Files>
+      <File FileName="Assets/Multiplayer Test/Scripts/Bullet.cs" Line="14" Column="32" />
+      <File FileName="Assets/Multiplayer Test/Scripts/Health.cs" Line="16" Column="33" />
+      <File FileName="Assets/Billboard.cs" Line="9" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
